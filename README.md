@@ -5,17 +5,17 @@ Real-time Object Detection using CNN
 
 Instruction
 
-1. Clone source
+Clone source
 
 git clone https://github.com/NVTUANHUT/darknet.git
 
-2. Compile
+Compile
 
 cd darknet
 
 make
 
-3. Run
+Run
 
 ./shell/test_normal_model.sh
 
