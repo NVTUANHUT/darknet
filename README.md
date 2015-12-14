@@ -15,6 +15,15 @@ cd darknet
 
 make
 
+Download pre-trained model and save to weights
+
+http://pjreddie.com/media/files/yolo.weights
+
+http://pjreddie.com/media/files/yolo-small.weights
+
+http://pjreddie.com/media/files/yolo-tiny.weights
+
+
 Run
 
 ./shell/test_normal_model.sh
